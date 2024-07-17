@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|c:\\users\\flores\\downloads\\gestiondeusuariosultimo\\gestiondeusuarios\\gestiondeusuario\\venderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\venderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\venderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\venderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\registropedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\registropedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\registropedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\registropedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\registrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\registrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\registrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\registrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\paneldecontro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\paneldecontro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\gestionreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\gestionreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\gestionreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\gestionreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\gestionarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\gestionarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\gestionarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\gestionarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\gestiondeusuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC8E18-B387-4959-99E0-958833585C32}|GestionDeUsuario\\GestionDeUsuario.csproj|solutionrelative:gestiondeusuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "venderProducto.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\venderProducto.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\venderProducto.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\venderProducto.cs",
+              "RelativeToolTip": "GestionDeUsuario\\venderProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:24:04.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "venderProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\venderProducto.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\venderProducto.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\venderProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionDeUsuario\\venderProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:24:02.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registroPedido.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\registroPedido.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\registroPedido.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\registroPedido.cs",
+              "RelativeToolTip": "GestionDeUsuario\\registroPedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:45:43.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registroProveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\registroProveedor.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\registroProveedor.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\registroProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionDeUsuario\\registroProveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:39:35.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registroProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\registroProveedor.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\registroProveedor.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\registroProveedor.cs",
+              "RelativeToolTip": "GestionDeUsuario\\registroProveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:39:46.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "registroPedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\registroPedido.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\registroPedido.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\registroPedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionDeUsuario\\registroPedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:23:43.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\RegistroCliente.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\RegistroCliente.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\RegistroCliente.cs",
+              "RelativeToolTip": "GestionDeUsuario\\RegistroCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:23:35.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\RegistroCliente.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\RegistroCliente.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\RegistroCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionDeUsuario\\RegistroCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:23:34.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PanelDeContro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\PanelDeContro.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\PanelDeContro.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\PanelDeContro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionDeUsuario\\PanelDeContro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:23:31.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestionReportes.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\GestionReportes.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\GestionReportes.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\GestionReportes.cs",
+              "RelativeToolTip": "GestionDeUsuario\\GestionReportes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:23:17.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestionReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\GestionReportes.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\GestionReportes.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\GestionReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionDeUsuario\\GestionReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:23:15.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gestionarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\gestionarProducto.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\gestionarProducto.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\gestionarProducto.cs",
+              "RelativeToolTip": "GestionDeUsuario\\gestionarProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:23:03.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "gestionarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\gestionarProducto.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\gestionarProducto.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\gestionarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionDeUsuario\\gestionarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:23:01.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\Form1.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\Form1.cs",
+              "RelativeToolTip": "GestionDeUsuario\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:12:33.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "crud.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\crud.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\crud.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\crud.cs",
+              "RelativeToolTip": "GestionDeUsuario\\crud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:11:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "crud.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\crud.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\crud.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\crud.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionDeUsuario\\crud.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:11:55.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionDeUsuario\\Form1.cs",
+              "ToolTip": "C:\\Users\\FLORES\\Downloads\\GestionDeUsuariosultimo\\GestionDeUsuarios\\GestionDeUsuario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionDeUsuario\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:05:49.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

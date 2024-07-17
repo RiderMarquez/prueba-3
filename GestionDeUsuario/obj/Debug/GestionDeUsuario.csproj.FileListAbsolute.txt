@@ -1,0 +1,152 @@
+D:\source\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.AssemblyReference.cache
+D:\source\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.config
+D:\source\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe
+D:\source\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.pdb
+D:\source\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.crud.resources
+D:\source\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Form1.resources
+D:\source\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Properties.Resources.resources
+D:\source\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.GenerateResource.cache
+D:\source\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.CoreCompileInputs.cache
+D:\source\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe
+D:\source\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.pdb
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.config
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.pdb
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.AssemblyReference.cache
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.crud.resources
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Form1.resources
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Properties.Resources.resources
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.GenerateResource.cache
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe
+C:\Users\ADRI\Desktop\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.pdb
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.config
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.pdb
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.AssemblyReference.cache
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.crud.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Form1.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Properties.Resources.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.GenerateResource.cache
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.pdb
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.vendedor.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.PanelDeContro.resources
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.config
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.pdb
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.AssemblyReference.cache
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.crud.resources
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Form1.resources
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.PanelDeContro.resources
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Properties.Resources.resources
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.vendedor.resources
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.GenerateResource.cache
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.pdb
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.gestionarProducto.resources
+C:\Users\guiov\Desktop\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.venderProducto.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.config
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.pdb
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.AssemblyReference.cache
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.crud.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Form1.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.gestionarProducto.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.PanelDeContro.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Properties.Resources.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.venderProducto.resources
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.GenerateResource.cache
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe
+C:\Users\guiov\Desktop\Sistemas Informaticos 3 A\Analisis de Sistemas II\2do Bimestre\Proyecto\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.pdb
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.config
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.pdb
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.AssemblyReference.cache
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.crud.resources
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Form1.resources
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.gestionarProducto.resources
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.PanelDeContro.resources
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Properties.Resources.resources
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.GenerateResource.cache
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.pdb
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionD.5B5B2FE2.Up2Date
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.registroProveedor.resources
+C:\Users\guiov\Desktop\Escritorio\Proyecto Analisis II\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.registroPedido.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.AssemblyReference.cache
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.pdb
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.config
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.pdb
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.crud.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Form1.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.gestionarProducto.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.PanelDeContro.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Properties.Resources.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.RegistroCliente.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.registroPedido.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.registroProveedor.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.venderProducto.resources
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.GenerateResource.cache
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\REYDEN\Downloads\GestionDeUsuarioooooos\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionD.5B5B2FE2.Up2Date
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.config
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.pdb
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.AssemblyReference.cache
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.crud.resources
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Form1.resources
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.gestionarProducto.resources
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.PanelDeContro.resources
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Properties.Resources.resources
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.RegistroCliente.resources
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.registroPedido.resources
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.registroProveedor.resources
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.venderProducto.resources
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.GenerateResource.cache
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionD.5B5B2FE2.Up2Date
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.pdb
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\itextsharp.dll
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\bin\Debug\itextsharp.xml
+C:\Users\josaf\OneDrive\Escritorio\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.GestionReportes.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.AssemblyReference.cache
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.pdb
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.config
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.pdb
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\itextsharp.dll
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\itextsharp.xml
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.crud.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Form1.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.gestionarProducto.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.GestionReportes.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.PanelDeContro.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.Properties.Resources.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.RegistroCliente.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.registroPedido.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.registroProveedor.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.venderProducto.resources
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.GenerateResource.cache
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionD.5B5B2FE2.Up2Date
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.exe.manifest
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\bin\Debug\GestionDeUsuario.application
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.exe.manifest
+C:\Users\FLORES\Downloads\GestionDeUsuariosultimo\GestionDeUsuarios\GestionDeUsuario\obj\Debug\GestionDeUsuario.application
